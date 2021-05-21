@@ -1,1 +1,1 @@
-#pragma once
+Пробую работать с Git и GitHub
